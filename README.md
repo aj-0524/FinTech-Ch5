@@ -1,4 +1,4 @@
-![An image for the header of the Repository](./images/retirement-plan.png)
+![An image for the header of the Repository](./Images/retirement-plan.png)
 
 # ***Finanical Health Evaluation Tool***
 
